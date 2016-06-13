@@ -6,5 +6,5 @@
   :main ^:skip-aot deadbeef-user.core
   ;; :eval-in :leiningen
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [other/deadbeef "0.1.0-SNAPSHOT"]
-                 [deadbeef "0.1.0-SNAPSHOT"]])
+                 [other/deadbeef "0.1.0-SNAPSHOT"]]
+  :plugins [[lein-droid "0.4.4"]])
