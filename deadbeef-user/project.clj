@@ -7,5 +7,4 @@
   ;; :eval-in :leiningen
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [other/deadbeef "0.1.0-SNAPSHOT"]
-                 [webnf/enlive "0.2.0-SNAPSHOT"]
-                 [enlive "1.1.6"]])
+                 [deadbeef "0.1.0-SNAPSHOT"]])
